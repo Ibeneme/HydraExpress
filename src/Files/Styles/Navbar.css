@@ -182,7 +182,7 @@ nav {
         justify-content: center;
 		gap: 0.2rem;
        padding-left: 1em;
-       padding-right: 0;
+       padding:1em;
 		background-color:#2F80ED;
 		transition: 1s;
 		transform: translateY(-100vh);
